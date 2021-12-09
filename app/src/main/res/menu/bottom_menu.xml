@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mail"
+        android:icon="@drawable/email_icon"
+        android:title="@string/mail"/>
+
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/call_icon"
+        android:title="@string/call"/>
+
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/video_icon"
+        android:title="@string/video"/>
+
+</menu>
